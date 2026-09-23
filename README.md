@@ -1,1 +1,1 @@
-complete DBMS notes
+complete DBMS notes for Placements
